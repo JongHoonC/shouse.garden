@@ -1,6 +1,3 @@
-/*::-webkit-scrollbar {
-    display: none;}*/
-
 section {
   overflow: hidden;
   width: 1200px;
@@ -26,7 +23,7 @@ section:first-child {
 
 .more > a {
   padding-right: 17px;
-  background-image: url("../img/greenarrow_right.png");
+  background-image: url('../img/greenarrow_right.png');
   background-repeat: no-repeat;
   background-position: right;
   background-size: 7px auto;
@@ -69,8 +66,6 @@ section:first-child {
 .tab_wrap > p {
   color: #4d4d4d;
 }
-
-/**************인기 계정 랭킹*************/
 
 .rank_wrap {
   overflow-x: scroll;
@@ -120,15 +115,15 @@ section:first-child {
 }
 
 .user_img1 > a {
-  background-image: url("../img/220411_112605.jpg");
+  background-image: url('../img/220411_112605.jpg');
 }
 
 .user_img2 > a {
-  background-image: url("../img/profile2.jpg");
+  background-image: url('../img/profile2.jpg');
 }
 
 .user_img3 > a {
-  background-image: url("../img/profile1.jpg");
+  background-image: url('../img/profile1.jpg');
 }
 
 .rank_txt {
@@ -162,7 +157,7 @@ section:first-child {
   height: 4px;
   border-radius: 50%;
   background-color: #b3b3b3;
-  content: "";
+  content: '';
 }
 
 .follow {
@@ -189,8 +184,6 @@ section:first-child {
 .nickname:hover {
   text-decoration: underline;
 }
-
-/***********주간 인기 스토리*************/
 
 .thumnail {
   display: flex;
@@ -225,35 +218,35 @@ figure > a > .img > div {
 }
 
 figure > a > .img > .img1 {
-  background-image: url("../img/thum_story1.jpeg");
+  background-image: url('../img/thum_story1.jpeg');
 }
 
 figure > a > .img > .img2 {
-  background-image: url("../img/thum_story2.jpg");
+  background-image: url('../img/thum_story2.jpg');
 }
 
 figure > a > .img > .img3 {
-  background-image: url("../img/thum_story3.jpeg");
+  background-image: url('../img/thum_story3.jpeg');
 }
 
 figure > a > .img > .img4 {
-  background-image: url("../img/thum_story4.jpeg");
+  background-image: url('../img/thum_story4.jpeg');
 }
 
 figure > a > .img > .img5 {
-  background-image: url("../img/thum_story5.jpeg");
+  background-image: url('../img/thum_story5.jpeg');
 }
 
 figure > a > .img > .img6 {
-  background-image: url("../img/thum_story6.jpg");
+  background-image: url('../img/thum_story6.jpg');
 }
 
 figure > a > .img > .img7 {
-  background-image: url("../img/thum_story7.jpeg");
+  background-image: url('../img/thum_story7.jpeg');
 }
 
 figure > a > .img > .img8 {
-  background-image: url("../img/thum_story8.jpeg");
+  background-image: url('../img/thum_story8.jpeg');
 }
 
 figure > a > .img::after {
@@ -262,9 +255,9 @@ figure > a > .img::after {
   bottom: 10px;
   width: 41px;
   height: 47px;
-  background: url("../img/scrap.png") center center no-repeat;
+  background: url('../img/scrap.png') center center no-repeat;
   background-size: 31px auto;
-  content: "";
+  content: '';
 }
 
 figure > a > .img > div:hover {
@@ -297,19 +290,19 @@ figcaption {
 }
 
 .user1 {
-  background-image: url("../img/220411_112605.jpg");
+  background-image: url('../img/220411_112605.jpg');
 }
 
 .user2 {
-  background-image: url("../img/profile1.jpg");
+  background-image: url('../img/profile1.jpg');
 }
 
 .user3 {
-  background-image: url("../img/profile2.jpg");
+  background-image: url('../img/profile2.jpg');
 }
 
 .user4 {
-  background-image: url("../img/profile3.jpg");
+  background-image: url('../img/profile3.jpg');
 }
 
 .story_user p {
@@ -391,37 +384,37 @@ figure > a:hover {
 }
 
 .guide .img1 {
-  background-image: url("../img/guidebook_1.png");
+  background-image: url('../img/guidebook_1.png');
 }
 
 .guide .img2 {
-  background-image: url("../img/guidebook_2.png");
+  background-image: url('../img/guidebook_2.png');
 }
 
 .guide .img3 {
-  background-image: url("../img/guidebook_3.png");
+  background-image: url('../img/guidebook_3.png');
 }
 
 .guide .img4 {
-  background-image: url("../img/guidebook_4.png");
+  background-image: url('../img/guidebook_4.png');
 }
 
 /***********최신 싱싱튜브*************/
 
 .video_img1 {
-  background-image: url("../img/video_1.jpg");
+  background-image: url('../img/video_1.jpg');
 }
 
 .video_img2 {
-  background-image: url("../img/video_2.jpg");
+  background-image: url('../img/video_2.jpg');
 }
 
 .video_img3 {
-  background-image: url("../img/video_3.png");
+  background-image: url('../img/video_3.png');
 }
 
 .video_img4 {
-  background-image: url("../img/video_4.jpg");
+  background-image: url('../img/video_4.jpg');
 }
 
 .time {
@@ -455,7 +448,7 @@ figure > a:hover {
   border-bottom: 7px solid transparent;
   border-left: 12px solid #000;
   transform: translate(-50%, -50%);
-  content: "";
+  content: '';
 }
 
 /***********매거진*************/
@@ -479,15 +472,15 @@ figure > a:hover {
 }
 
 .magazine_img1 {
-  background-image: url("../img/magazine_01.jpg");
+  background-image: url('../img/magazine_01.jpg');
 }
 
 .magazine_img2 {
-  background-image: url("../img/magazine_02.jpg");
+  background-image: url('../img/magazine_02.jpg');
 }
 
 .magazine_img3 {
-  background-image: url("../img/magazine_03.jpg");
+  background-image: url('../img/magazine_03.jpg');
 }
 
 .magazine > a > div:hover {
@@ -525,11 +518,11 @@ figure > a:hover {
 }
 
 .ask_img1 {
-  background-image: url("../img/profile.jpg");
+  background-image: url('../img/profile.jpg');
 }
 
 .ask_img2 {
-  background-image: url("../img/profile4.jpeg");
+  background-image: url('../img/profile4.jpeg');
 }
 
 .ask_txt {
@@ -672,7 +665,7 @@ figure > a:hover {
 
   .more_btn > a {
     padding-right: 15px;
-    background: url("../img/arrow02_r.png") right center no-repeat;
+    background: url('../img/arrow02_r.png') right center no-repeat;
     background-size: 6px auto;
     font-size: 14px;
     font-weight: 400;

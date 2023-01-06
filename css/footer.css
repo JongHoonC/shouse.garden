@@ -1,0 +1,142 @@
+/*************************footer**********************/
+
+footer {
+  width: 100%;
+  padding: 50px 0;
+  background-color: #4d4d4d;
+}
+
+.footer_wrap {
+  width: 1200px;
+  margin: auto;
+}
+
+.f_cs > ul {
+  display: flex;
+  font-size: 15px;
+  color: #d9d9d9;
+}
+
+.f_cs > ul > li {
+  padding-right: 5px;
+}
+
+.f_nav {
+  display: flex;
+  width: 100%;
+  margin: 20px 0;
+  padding: 0 20px;
+  border-radius: 4px;
+  background-color: #3e3e3e;
+  box-sizing: border-box;
+}
+
+.f_nav > ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.f_nav > ul:first-child {
+  width: 60%;
+}
+
+.f_nav > ul:last-child {
+  width: 40%;
+}
+
+.f_nav > ul > li > a {
+  display: block;
+  padding-right: 20px;
+  background-image: url('../img/arrow02_r.png');
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: 6px auto;
+  font-size: 16px;
+  color: #fff;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+address span {
+  font-size: 14px;
+  color: #d9d9d9;
+}
+
+address a,
+.f_info a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.f_info {
+  margin-top: 26px;
+  padding-top: 32px;
+  border-top: 2px solid #494949;
+  color: #b3b3b3;
+  word-break: keep-all;
+}
+
+@media (max-width: 1200px) {
+  .footer_wrap {
+    width: 100%;
+  }
+
+  .f_nav > ul > li > a {
+    margin-left: 2%;
+    font-size: 14px;
+    line-height: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  footer {
+    padding: 50px 20px;
+    box-sizing: border-box;
+  }
+
+  .f_nav {
+    padding: 0;
+    background-color: transparent;
+  }
+
+  .f_nav > ul {
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 180px;
+    padding: 12px;
+    border-radius: 4px;
+    background-color: #3e3e3e;
+    box-sizing: border-box;
+  }
+
+  .f_nav > ul:first-child {
+    width: calc(50% - 8px);
+  }
+
+  .f_nav > ul:last-child {
+    width: calc(50% - 8px);
+    margin-left: 16px;
+  }
+
+  .f_nav > ul > li > a {
+    font-size: 12px;
+  }
+  address a {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  address span,
+  address a {
+    font-size: 11px;
+  }
+
+  .f_info > p {
+    padding: 5px 0;
+  }
+
+  .f_info > p,
+  .f_info > p > a {
+    font-size: 11px;
+  }
+}

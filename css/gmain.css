@@ -27,13 +27,13 @@ section:nth-child(2) {
 }
 
 .event01 {
-  background-image: url("../img/si1.jpg");
+  background-image: url('../img/si1.jpg');
 }
 .event02 {
-  background-image: url("../img/si2.jpg");
+  background-image: url('../img/si2.jpg');
 }
 .event03 {
-  background-image: url("../img/si3.jpg");
+  background-image: url('../img/si3.jpg');
 }
 
 .swiper-page {
@@ -102,8 +102,8 @@ section:nth-child(2) {
   right: 5px;
   width: 16px;
   height: 21px;
-  background: url("../img/new_cate.png") no-repeat 0 -50px;
-  content: "";
+  background: url('../img/new_cate.png') no-repeat 0 -50px;
+  content: '';
 }
 
 .category_list div > img {
@@ -139,13 +139,13 @@ section:nth-child(2) {
 }
 
 .setting > a {
-  background-image: url("../img/setting.png");
+  background-image: url('../img/setting.png');
   background-size: 15px auto;
   color: #4d4d4d;
 }
 
 .more > a {
-  background-image: url("../img/greenarrow_right.png");
+  background-image: url('../img/greenarrow_right.png');
   background-size: 7px auto;
   color: #009a3e;
 }
@@ -237,41 +237,41 @@ figure > a > div::after {
   bottom: 13px;
   width: 31px;
   height: 40px;
-  background-image: url("../img/scrap.png");
+  background-image: url('../img/scrap.png');
   background-size: 100% auto;
-  content: "";
+  content: '';
 }
 
 .story_img1 {
-  background-image: url("../img/thumnail1.jpeg");
+  background-image: url('../img/thumnail1.jpeg');
 }
 
 .story_img2 {
-  background-image: url("../img/thumnail2.jpeg");
+  background-image: url('../img/thumnail2.jpeg');
 }
 
 .story_img3 {
-  background-image: url("../img/thumnail3.jpeg");
+  background-image: url('../img/thumnail3.jpeg');
 }
 
 .story_img4 {
-  background-image: url("../img/thumnail4.jpeg");
+  background-image: url('../img/thumnail4.jpeg');
 }
 
 .story_img5 {
-  background-image: url("../img/thumnail5.jpeg");
+  background-image: url('../img/thumnail5.jpeg');
 }
 
 .story_img6 {
-  background-image: url("../img/thumnail6.jpeg");
+  background-image: url('../img/thumnail6.jpeg');
 }
 
 .story_img7 {
-  background-image: url("../img/thumnail7.png");
+  background-image: url('../img/thumnail7.png');
 }
 
 .story_img8 {
-  background-image: url("../img/thumnail8.jpeg");
+  background-image: url('../img/thumnail8.jpeg');
 }
 
 .story figcaption {
@@ -290,15 +290,15 @@ figure > a > div::after {
 }
 
 .user_img1 {
-  background-image: url("../img/profile1.jpg");
+  background-image: url('../img/profile1.jpg');
 }
 
 .user_img2 {
-  background-image: url("../img/profile2.jpg");
+  background-image: url('../img/profile2.jpg');
 }
 
 .user_img3 {
-  background-image: url("../img/profile3.jpg");
+  background-image: url('../img/profile3.jpg');
 }
 
 .story > figure p {
@@ -396,15 +396,15 @@ figure > a > div::after {
 }
 
 .trip1 {
-  background-image: url("../img/travel_thumnail_1.jpg");
+  background-image: url('../img/travel_thumnail_1.jpg');
 }
 
 .trip2 {
-  background-image: url("../img/travel_thumnail_2.png");
+  background-image: url('../img/travel_thumnail_2.png');
 }
 
 .trip3 {
-  background-image: url("../img/travel_thumnail_3.jpg");
+  background-image: url('../img/travel_thumnail_3.jpg');
 }
 
 .trip_txt {
@@ -415,7 +415,7 @@ figure > a > div::after {
 
 .trip_txt > span {
   padding-right: 22px;
-  background-image: url("../img/place.png");
+  background-image: url('../img/place.png');
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 12px auto;
@@ -445,16 +445,16 @@ figure > a > div::after {
 }
 
 .trip_like {
-  background-image: url("../img/state_like.png");
+  background-image: url('../img/state_like.png');
 }
 
 .trip_scrap {
-  background-image: url("../img/state_scrap.png");
+  background-image: url('../img/state_scrap.png');
 }
 
 .trip_arrow {
   height: 14px;
-  background-image: url("../img/arrow_right.png");
+  background-image: url('../img/arrow_right.png');
 }
 
 .story_more {
@@ -498,7 +498,7 @@ figure > a > div::after {
 }
 
 .youtube > .img3 {
-  background-image: url("../img/210611_093405.png");
+  background-image: url('../img/210611_093405.png');
 }
 
 .youtube > .play {
@@ -520,7 +520,7 @@ figure > a > div::after {
   border-bottom: 7px solid transparent;
   border-left: 12px solid #000;
   transform: translate(-50%, -50%);
-  content: "";
+  content: '';
 }
 
 .youtube > .time {
@@ -543,7 +543,7 @@ figure > a > div::after {
   bottom: 0;
   width: 41px;
   height: 41px;
-  background-image: url("../img/scrap.png");
+  background-image: url('../img/scrap.png');
   background-repeat: no-repeat;
   background-size: auto 100%;
 }
@@ -571,7 +571,7 @@ figure > a > div::after {
   width: 100%;
   padding: 60px -0;
   background-color: #f2faf5;
-  background-image: url("../img/hotkeyword.jpg");
+  background-image: url('../img/hotkeyword.jpg');
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 33.08%;
@@ -607,35 +607,35 @@ figure > a > div::after {
 }
 
 .mdPick .img1 {
-  background-image: url("../img/mdpick_thumnail_1.jpg");
+  background-image: url('../img/mdpick_thumnail_1.jpg');
 }
 
 .mdPick .img2 {
-  background-image: url("../img/mdpick_thumnail_2.jpg");
+  background-image: url('../img/mdpick_thumnail_2.jpg');
 }
 
 .mdPick .img3 {
-  background-image: url("../img/mdpick_thumnail_3.png");
+  background-image: url('../img/mdpick_thumnail_3.png');
 }
 
 .mdPick .img4 {
-  background-image: url("../img/mdpick_thumnail_4.jpg");
+  background-image: url('../img/mdpick_thumnail_4.jpg');
 }
 
 .mdPick .img5 {
-  background-image: url("../img/mdpick_thumnail_5.jpg");
+  background-image: url('../img/mdpick_thumnail_5.jpg');
 }
 
 .mdPick .img6 {
-  background-image: url("../img/mdpick_thumnail_6.jpg");
+  background-image: url('../img/mdpick_thumnail_6.jpg');
 }
 
 .mdPick .img7 {
-  background-image: url("../img/mdpick_thumnail_7.jpg");
+  background-image: url('../img/mdpick_thumnail_7.jpg');
 }
 
 .mdPick .img8 {
-  background-image: url("../img/mdpick_thumnail_8.jpg");
+  background-image: url('../img/mdpick_thumnail_8.jpg');
 }
 
 .mdPick p {
@@ -706,19 +706,19 @@ figure > a > div::after {
 }
 
 .guide .img1 {
-  background-image: url("../img/guidebook_1.png");
+  background-image: url('../img/guidebook_1.png');
 }
 
 .guide .img2 {
-  background-image: url("../img/guidebook_2.png");
+  background-image: url('../img/guidebook_2.png');
 }
 
 .guide .img3 {
-  background-image: url("../img/guidebook_3.png");
+  background-image: url('../img/guidebook_3.png');
 }
 
 .guide .img4 {
-  background-image: url("../img/guidebook_4.png");
+  background-image: url('../img/guidebook_4.png');
 }
 
 .guide .new {
@@ -727,7 +727,7 @@ figure > a > div::after {
   right: 6%;
   width: 27px;
   height: 41px;
-  background-image: url("../img/new_guide.png");
+  background-image: url('../img/new_guide.png');
   background-size: 100% auto;
 }
 
@@ -766,7 +766,7 @@ figure > a > div::after {
 .quick .sp {
   width: 40px;
   height: 40px;
-  background-image: url("../img/sp_lv.png");
+  background-image: url('../img/sp_lv.png');
   background-size: auto 40px;
 }
 
@@ -1005,7 +1005,7 @@ figure > a > div::after {
     bottom: 10px;
     width: 33px;
     height: 33px;
-    background-image: url("../img/sp_lv.png");
+    background-image: url('../img/sp_lv.png');
     background-size: auto 33px;
   }
 
