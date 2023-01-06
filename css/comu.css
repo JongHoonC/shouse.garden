@@ -316,8 +316,6 @@ figure > a:hover {
   text-decoration: underline #4d4d4d;
 }
 
-/***********주간 인기 사진*************/
-
 .thumnail > div {
   width: 25%;
   padding: 20px 10px;
@@ -349,8 +347,6 @@ figure > a:hover {
 .photo_box > a > img:hover {
   transform: scale(1.05);
 }
-
-/***********가이드북*************/
 
 .w100 {
   width: 100%;
@@ -398,8 +394,6 @@ figure > a:hover {
 .guide .img4 {
   background-image: url('../img/guidebook_4.png');
 }
-
-/***********최신 싱싱튜브*************/
 
 .video_img1 {
   background-image: url('../img/video_1.jpg');
@@ -451,8 +445,6 @@ figure > a:hover {
   content: '';
 }
 
-/***********매거진*************/
-
 .magazine_wrap {
   display: flex;
   justify-content: space-between;
@@ -486,8 +478,6 @@ figure > a:hover {
 .magazine > a > div:hover {
   transform: scale(1.05);
 }
-
-/*************묻고 답하기*************/
 
 .ask_wrap {
   width: 100%;
